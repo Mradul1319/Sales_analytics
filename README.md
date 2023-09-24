@@ -26,10 +26,18 @@ Overall, this project aims to empower businesses with the necessary tools and in
 
 
 [Top 10 Product.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708144/Top.10.Product.pdf)
+
 [Top 5 & Bottom 5 Product.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708143/Top.5.Bottom.5.Product.pdf)
+
 [P & L for Market.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708142/P.L.for.Market.pdf)
+
 [New Product in 2021.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708141/New.Product.in.2021.pdf)
+
 [Market performance vs Target.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708140/Market.performance.vs.Target.pdf)
+
 [GM % by quarter.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708139/GM.by.quarter.pdf)
+
 [Division Level Report.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708138/Division.Level.Report.pdf)
+
 [Customer Performance Report.pdf](https://github.com/Mradul1319/Sales_analytics/files/12708137/Customer.Performance.Report.pdf)
+
